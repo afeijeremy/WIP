@@ -2,7 +2,7 @@ layout: page
 title: "Home Page"
 permalink: /home/
 
-### Location Documents
+### Local Documents
 [Analytics Design Tips](AnalyticDesign.md)
 
 

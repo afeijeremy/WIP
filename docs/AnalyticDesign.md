@@ -33,3 +33,5 @@
 
 
 [Orginal Source](https://www.linkedin.com/pulse/tips-creating-effective-engaging-data-visualizations-jacob-stark/)
+
+[back](index.md)

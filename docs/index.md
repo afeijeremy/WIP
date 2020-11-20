@@ -1,3 +1,7 @@
+layout: page
+title: "Home Page"
+permalink: /home/
+
 ### Location Documents
 [Analytics Design Tips](AnalyticDesign.md)
 
